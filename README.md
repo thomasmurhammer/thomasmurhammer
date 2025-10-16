@@ -1,5 +1,5 @@
 # 👋 About me
-🧑‍💻 26 years old from Austria<br />
+🧑‍💻 27 years old from Austria<br />
 🌎 Web Front- and Back-End Developer<br />
 💻 PHP, CSS, JavaScript (NodeJS), Swift, MySQL<br />
 ⚡ TYPO3, Laravel, Wordpress
